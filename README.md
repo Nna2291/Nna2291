@@ -5,5 +5,3 @@ Education: BMSTU, ICS7 (software engineering)
 Current interest: quantitative analysis
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nna2291&layout=compact)](https://github.com/Nna2291/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nna2291)](https://github.com/Nna2291/github-readme-stats)
