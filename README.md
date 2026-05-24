@@ -1,4 +1,4 @@
 My name is Nefedov Nikolay.
-Education: BMSTU, ICS7 (software engineering)
+I am from Moscow
 
-Current interest: quantitative analysis
+I love films, talking heads, oasis, money and tech
